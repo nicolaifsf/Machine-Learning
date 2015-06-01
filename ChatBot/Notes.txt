@@ -1,0 +1,13 @@
+Data Structure
+-Two way associative- or - perhaps one way, but double the map size
+-Question -> Response format
+
+Map? 
+Key is question, Data is response
+
+
+Need something to parse the language and find SIMILARITIES and not exact words
+
+
+Dictionary of all words is stored, references the user's input to the dictionary, and if the word does not exist, it then converts it to the closest associative word.
+can run a naive bayes using characters instead of words

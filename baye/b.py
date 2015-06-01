@@ -58,7 +58,7 @@ def parse(phrase, sayer1, sayer2):
 
 
 
-s1 = Sayer("Kant", "file.txt")
-s2 = Sayer("Heidegger", "file2.txt")
+# s1 = Sayer("Kant", "file.txt")
+# s2 = Sayer("Heidegger", "file2.txt")
 # parse("Transcendental Being is knowledge", s1, s2)
-parse("Intuition is Knowledge", s1,s2)
+# parse("Intuition is Knowledge", s1,s2)
